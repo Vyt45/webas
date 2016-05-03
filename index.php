@@ -14,7 +14,9 @@
  */
 
 get_header(); ?>
-
+<ul data-orbit>
+<li><img src="wordpress/wp-content/themes/FoundationPress-master/assets/images/wood.jpg"></li>	
+</ul>
 <div id="page" role="main">
 	<article class="main-content">
 	<?php if ( have_posts() ) : ?>
