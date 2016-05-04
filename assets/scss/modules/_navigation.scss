@@ -3,11 +3,7 @@ nav#site-navigation.main-navigation.top-bar, .top-bar-left ul, .top-bar-right, u
   background-image: url("/wordpress/wp-content/themes/FoundationPress-master/assets/images/wood.jpg");
     background-size: 100% auto; 
 }
-div.top-bar-left {
-  background-image: url("/wordpress/wp-content/themes/FoundationPress-master/assets/images/wood.jpg") !important;
-    background-size: 100% auto; 
-    background-color:transparent;
-}
+
 .desktop-menu, .top-bar-left  {
    
   @include show-for(medium);
@@ -30,7 +26,7 @@ div.top-bar-left {
 
   a {
     font-size: 1rem;
-    color: #B9B9B9;
+    color: #9e2821;
   }
 }
 
@@ -52,7 +48,7 @@ div.top-bar-left {
     background-size: 100% auto;
     padding-top: 20px;
     font-size: 1rem;
-    color: #B9B9B9;
+    color: #9E2821;
   }
 
  .menu a img {
@@ -61,7 +57,7 @@ div.top-bar-left {
   .menu a {
     height: 45px;
     line-height: 45px;
-    color: #e6e6e6;
+    color: #9e2821;
     padding-top: 0;
     padding-bottom: 0;
     font-weight: bold;
@@ -69,8 +65,8 @@ div.top-bar-left {
     line-height: 1;
 
     &:hover:not(.button) {
-      background-color: #EAE3E3;
-      zoom: 105%;
+ 
+background-color: #FFFFFF;
     }
   }
 
@@ -78,11 +74,13 @@ div.top-bar-left {
   .menu li:not(:last-child) { border-right: 1px solid #4e4e4e; }
 
   .dropdown.menu .submenu {
-    background-color: #F40303;
+    background-color: #9e2821;
     color: #e6e6e6;
     border: 0;
   }
-
+.dropdown.menu .submenu a:hover {
+    color: #9e2821;
+}
   .dropdown.menu .has-submenu.is-down-arrow a { padding-right: 1rem; }
   .dropdown.menu .has-submenu.is-down-arrow > a::after { border: 0; }
   .is-dropdown-submenu-parent.is-down-arrow > a::after { display: none; }

@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Full Width
+Template Name: template2
 */
 get_header(); ?>
 
@@ -20,6 +20,8 @@ get_header(); ?>
           <h2>jibat</h2>
           <ul>
               <li>kas cia bus</li>
+              <li>bbz</li>
+              <li>hardbass</li>
 
           </ul>
       </div>
