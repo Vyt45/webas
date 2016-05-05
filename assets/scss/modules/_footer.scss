@@ -6,6 +6,10 @@
 	margin-top: rem-calc(60);
 	background-color: red;
 
+	.wpgmza_widget {
+		float: right;
+	}
+
 	#footer {
 		@include grid-row();
 		padding: rem-calc(30) 0;
