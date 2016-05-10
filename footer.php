@@ -20,7 +20,6 @@
 					<p>
 Įmonės kodas	159931142 </br>
 PVM mokėtojo kodas	LT599311411</br>
-Vadovas	Vaidas Čepas</br>
 Adresas	Smiltynų I km., LT-54400 Kauno r.</br>
 Telefonas	Agnapolio Dvaras Telefonas</br>
 Faksas	Agnapolio Dvaras Faksas

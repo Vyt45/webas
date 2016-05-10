@@ -13,6 +13,10 @@ nav#site-navigation.main-navigation.top-bar, .top-bar-left ul, .top-bar-right, u
   @include hide-for(medium);
 }
 
+.top-bar .menu a {
+  color: #E2DFDF !important;
+}
+
 /* Mobile menu */
 
 .off-canvas {

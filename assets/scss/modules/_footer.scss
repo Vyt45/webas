@@ -6,7 +6,12 @@
 	border-top: 1px solid #ccc;
 	margin-top: rem-calc(60);
 	background-color: red;
+	color: white;
+	font-weight: 500;
 
+#footer p {
+	line-height: 45px !important; 
+}
 	.wpgmza_widget {
 		float: right;
 	}

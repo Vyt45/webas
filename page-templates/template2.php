@@ -11,47 +11,14 @@ get_header(); ?>
 <?php do_action( 'foundationpress_before_content' ); ?>
 <?php while ( have_posts() ) : the_post(); ?>
   <article <?php post_class('main-content') ?> id="post-<?php the_ID(); ?>">
-      <header>
-          <h1 class="entry-title"><?php the_title(); ?></h1>
-      </header>
+      
       <?php do_action( 'foundationpress_page_before_entry_content' ); ?>
       <div class="entry-content">
           <?php the_content(); ?>
           
-          <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit>
-<ul class="orbit-container">
-<button class="orbit-previous" aria-label="previous"><span class="show-for-sr">Previous Slide</span>&#9664;</button>
-<button class="orbit-next" aria-label="next"><span class="show-for-sr">Next Slide</span>&#9654;</button>
-<li class="orbit-slide is-active">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit1.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit2.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit3.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit4.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit5.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit6.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit7.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit8.jpg"/>
-</li>
-<li class="orbit-slide">
-<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit9.jpg"/>
-</li>
-</ul>
-</div>
+          <?php  include( get_template_directory() . '/page-templates/orbit.php'); ?>
 <hr/>
+<h2 class="centered">Medienos produktų lyderiai Lietuvoje</h2>
 <div class="row">
 <div class="large-4 columns">
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/langas3.jpg"/>
