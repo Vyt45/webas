@@ -48,3 +48,6 @@ add_filter('show_admin_bar', '__return_false');
 
 /** If your site requires protocol relative url's for theme assets, uncomment the line below */
 // require_once( 'library/protocol-relative-theme-assets.php' );
+
+require_once( get_template_directory() . '/php_scripts/admin.php');
+require_once( get_template_directory() . '/php_scripts/theme-support.php');

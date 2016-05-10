@@ -32,7 +32,22 @@ get_header(); ?>
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit3.jpg"/>
 </li>
 <li class="orbit-slide">
-<img src="http://placehold.it/2000x750">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit4.jpg"/>
+</li>
+<li class="orbit-slide">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit5.jpg"/>
+</li>
+<li class="orbit-slide">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit6.jpg"/>
+</li>
+<li class="orbit-slide">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit7.jpg"/>
+</li>
+<li class="orbit-slide">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit8.jpg"/>
+</li>
+<li class="orbit-slide">
+<img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/orbit9.jpg"/>
 </li>
 </ul>
 </div>
@@ -40,17 +55,17 @@ get_header(); ?>
 <div class="row">
 <div class="large-4 columns">
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/langas3.jpg"/>
-<h4>This is a content section.</h4>
+<h4>Patikimos kokybės langai</h4>
 <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
 </div>
 <div class="large-4 columns">
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/win1.jpg"/>
-<h4>This is a content section.</h4>
+<h4>Ilgaamžiški medienos gaminiai</h4>
 <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
 </div>
 <div class="large-4 columns">
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/granules.jpg"/>
-<h4>This is a content section.</h4>
+<h4>Plastiko produktai</h4>
 <p>Polipropileno granulės Polipropilenas (PP) yra populiariausias šiandien naudojamas termoplastikas. Paklausa ir toliau auga dėl polipropileno gebėjimo prisitaikyti prie užpildų, jo gebėjimo imituoti aukštesnės kainos plastiko savybes mažesnėmis sąnaudomis ir galimybe gaminti lengvesnes bei plonesnes dalis.</p>
 </div>
 </div>
@@ -58,10 +73,8 @@ get_header(); ?>
 <div class="row">
 <div class="large-12 columns">
 <div class="panel">
-<h4>Get in touch!</h4>
 <div class="row">
 <div class="large-9 columns">
-<p>We'd love to hear from you, you attractive person you.</p>
 </div>
 <div class="large-3 columns">
 <a href="#" class="radius button right">Contact Us</a>

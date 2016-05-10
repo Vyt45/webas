@@ -16,6 +16,18 @@
 				<?php do_action( 'foundationpress_before_footer' ); ?>
 				<?php dynamic_sidebar( 'footer-widgets' ); ?>
 				<?php do_action( 'foundationpress_after_footer' ); ?>
+				<div class="large-4 columns">
+					<p>
+Įmonės kodas	159931142 </br>
+PVM mokėtojo kodas	LT599311411</br>
+Vadovas	Vaidas Čepas</br>
+Adresas	Smiltynų I km., LT-54400 Kauno r.</br>
+Telefonas	Agnapolio Dvaras Telefonas</br>
+Faksas	Agnapolio Dvaras Faksas
+					</p>
+				</div>
+				<div class="large-4 columns"></div>
+				<div class="large-4 columns"></div>
 			</footer>
 		</div>
 
