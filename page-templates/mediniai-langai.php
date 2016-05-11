@@ -18,7 +18,7 @@ get_header(); ?>
       
     
 <hr/>
-<h2 class="centered">Mediniai langai</h2>
+<h2 class="centered">Mūsų produktai</h2>
 <p>Mediniai langai gaminami iš trijų sluoksnių klijuotos medienos tašų be šakų ir defektų, išoriniai sluoksniai - radialinio pjovimo mediena. Tokios medienos panaudojimas užtikrina gaminių atsparumą deformacijoms. Gaminiams naudojama pušies, meranti, maumedžio, ąžuolo klijuota mediena. Langai iš medienos suteikia namui jaukumą, natūralumą. Medinius gaminius galima atnaujinti.</p>
  
 
@@ -36,7 +36,7 @@ get_header(); ?>
 </div>
 <div class="large-4 columns">
 <img src="/wordpress/wp-content/themes/FoundationPress-master/assets/images/granules.jpg"/>
-<h4>Plastiko produktai</h4>
+<h4>Durys</h4>
 <p>Polipropileno granulės Polipropilenas (PP) yra populiariausias šiandien naudojamas termoplastikas. Paklausa ir toliau auga dėl polipropileno gebėjimo prisitaikyti prie užpildų, jo gebėjimo imituoti aukštesnės kainos plastiko savybes mažesnėmis sąnaudomis ir galimybe gaminti lengvesnes bei plonesnes dalis.</p>
 </div>
 </div>

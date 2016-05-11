@@ -572,6 +572,14 @@ h4 {
   text-align: center;
 }
 
-.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-4.is-dropdown-submenu-parent.is-down-arrow {
-  color: white;
+.dropdown menu vertical submenu is-dropdown-submenu first-sub { color: white;
+}
+
+#motion-example-2 {
+  display: none !important;
+}
+
+//
+.callout.secondary {
+  background-color: transparent !important;
 }
